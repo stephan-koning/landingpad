@@ -21,7 +21,7 @@ export default config({
   // create a Keystatic Cloud account here: https://keystatic.cloud/
   cloud: { project: "stephan-koning/landingpad" },
   ui: {
-    brand: { name: "Cosmic Themes" },
+    brand: { name: "Stephan Koning Themes" },
   },
   singletons: {
     /**
