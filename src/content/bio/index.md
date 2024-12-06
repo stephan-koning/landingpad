@@ -1,7 +1,9 @@
 ---
-name: 3 ways I can help to grow your online business right now
-theme: dark
+name: >-
+  3 Ways I Can Help to Grow Your Online Business Right Now - For Busy
+  Entrepreneurs
+theme: light
 blur: blur
 avatar: ./avatar.jpg
-background: ./background.jpg
+background: ./background.webp
 ---
