@@ -1,7 +1,5 @@
 ---
-name: >-
-  3 Ways I Can Help to Grow Your Online Business Right Now - For Busy
-  Entrepreneurs
+name: 3 Ways I Can Help Busy Founders to Sell Online
 theme: light
 blur: blur
 avatar: ./avatar.jpg
